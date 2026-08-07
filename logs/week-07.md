@@ -19,5 +19,5 @@ I read Mitra et al., which provides motivation for our work based on SDCs in sil
 
 
 ## Notes
-I need to meet with Dr. Cao next week for feedback on new direction. I had to travel back to California this week
+I need to meet with Dr. Cao next week for feedback on new direction. I had to travel back to California this week, so no time for meeting.
 
